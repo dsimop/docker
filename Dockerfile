@@ -1,2 +1,2 @@
 FROM simodim/restructure
-RUN apt-get install docker.io
+RUN apt-get install docker.io -y
